@@ -1,4 +1,8 @@
-﻿using Android.App;
+﻿using System;
+using Android.App;
+using Android.Content;
+using Android.Runtime;
+using Android.Views;
 using Android.Widget;
 using Android.OS;
 
@@ -7,7 +11,8 @@ namespace Lab1
 	[Activity(Label = "Lab1", MainLauncher = true, Icon = "@mipmap/icon")]
 	public class MainActivity : Activity
 	{
-		int count = 1;
+		Button button;
+		TextView TextViewDev;
 
 		protected override void OnCreate(Bundle savedInstanceState)
 		{
@@ -18,9 +23,20 @@ namespace Lab1
 
 			// Get our button from the layout resource,
 			// and attach an event to it
-			Button button = FindViewById<Button>(Resource.Id.myButton);
+			button = FindViewById<Button>(Resource.Id.myButton);
+			TextViewDev = FindViewById<TextView>(Resource.Id.textViewDev);
 
-			button.Click += delegate { button.Text = $"{count++} clicks!"; };
+			button.Click += button_click;
+
+		}
+
+		private async void button_click(object sender, EventArgs e)
+		{
+			TextViewDev.Text = "Alfredo Hernández Rodríguez";
+			string myDevice = Android.Provider.Settings.Secure.GetString(ContentResolver, Android.Provider.Settings.Secure.AndroidId);
+			Lab1.Registro helper = new Lab1.Registro();
+			await helper.InsertarEntidad("alfredo_hernandez_rguez@outlook.com", "lab1", myDevice);
+			button.Text = "Gracias por completar el Lab1";
 		}
 	}
 }
