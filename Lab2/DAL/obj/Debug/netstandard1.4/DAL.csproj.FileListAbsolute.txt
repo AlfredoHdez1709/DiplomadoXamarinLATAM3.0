@@ -1,0 +1,11 @@
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\DAL\bin\Debug\netstandard1.4\DAL.deps.json
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\DAL\bin\Debug\netstandard1.4\DAL.dll
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\DAL\bin\Debug\netstandard1.4\DAL.pdb
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\DAL\obj\Debug\netstandard1.4\DAL.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\DAL\obj\Debug\netstandard1.4\DAL.AssemblyInfo.cs
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\DAL\obj\Debug\netstandard1.4\DAL.dll
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\DAL\obj\Debug\netstandard1.4\DAL.pdb
+C:\Users\Alfredo\documents\visual studio 2017\Projects\Lab1\DAL\obj\Debug\netstandard1.4\DAL.dll.mdb
+C:\Users\Alfredo\documents\visual studio 2017\Projects\Lab1\DAL\bin\Debug\netstandard1.4\DAL.dll.mdb
+C:\Users\Alfredo\documents\visual studio 2017\Projects\Lab1\DAL\obj\Debug\netstandard1.4\DAL.dll.mdb
+C:\Users\Alfredo\documents\visual studio 2017\Projects\Lab1\DAL\bin\Debug\netstandard1.4\DAL.dll.mdb

@@ -1,0 +1,1 @@
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab3\UWPApp\UWPApp.csproj;x86

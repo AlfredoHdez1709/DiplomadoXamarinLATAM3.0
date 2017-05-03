@@ -1,0 +1,13 @@
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\BLL\bin\Debug\netstandard1.4\BLL.deps.json
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\BLL\bin\Debug\netstandard1.4\BLL.dll
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\BLL\bin\Debug\netstandard1.4\BLL.pdb
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\BLL\bin\Debug\netstandard1.4\DAL.dll
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\BLL\bin\Debug\netstandard1.4\DAL.pdb
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\BLL\obj\Debug\netstandard1.4\BLL.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\BLL\obj\Debug\netstandard1.4\BLL.AssemblyInfo.cs
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\BLL\obj\Debug\netstandard1.4\BLL.dll
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\BLL\obj\Debug\netstandard1.4\BLL.pdb
+C:\Users\Alfredo\documents\visual studio 2017\Projects\Lab1\BLL\obj\Debug\netstandard1.4\BLL.dll.mdb
+C:\Users\Alfredo\documents\visual studio 2017\Projects\Lab1\BLL\bin\Debug\netstandard1.4\BLL.dll.mdb
+C:\Users\Alfredo\documents\visual studio 2017\Projects\Lab1\BLL\obj\Debug\netstandard1.4\BLL.dll.mdb
+C:\Users\Alfredo\documents\visual studio 2017\Projects\Lab1\BLL\bin\Debug\netstandard1.4\BLL.dll.mdb

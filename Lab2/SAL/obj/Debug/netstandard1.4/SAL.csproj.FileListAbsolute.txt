@@ -1,0 +1,11 @@
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\SAL\bin\Debug\netstandard1.4\SAL.deps.json
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\SAL\bin\Debug\netstandard1.4\SAL.dll
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\SAL\bin\Debug\netstandard1.4\SAL.pdb
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\SAL\obj\Debug\netstandard1.4\SAL.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\SAL\obj\Debug\netstandard1.4\SAL.AssemblyInfo.cs
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\SAL\obj\Debug\netstandard1.4\SAL.dll
+c:\users\alfredo\documents\visual studio 2017\Projects\Lab1\SAL\obj\Debug\netstandard1.4\SAL.pdb
+C:\Users\Alfredo\documents\visual studio 2017\Projects\Lab1\SAL\obj\Debug\netstandard1.4\SAL.dll.mdb
+C:\Users\Alfredo\documents\visual studio 2017\Projects\Lab1\SAL\bin\Debug\netstandard1.4\SAL.dll.mdb
+C:\Users\Alfredo\documents\visual studio 2017\Projects\Lab1\SAL\obj\Debug\netstandard1.4\SAL.dll.mdb
+C:\Users\Alfredo\documents\visual studio 2017\Projects\Lab1\SAL\bin\Debug\netstandard1.4\SAL.dll.mdb
