@@ -32,10 +32,10 @@ namespace Lab1
 
 		private async void button_click(object sender, EventArgs e)
 		{
-			TextViewDev.Text = "Alfredo Hernández Rodríguez";
+			TextViewDev.Text = "nombre";
 			string myDevice = Android.Provider.Settings.Secure.GetString(ContentResolver, Android.Provider.Settings.Secure.AndroidId);
 			Lab1.Registro helper = new Lab1.Registro();
-			await helper.InsertarEntidad("alfredo_hernandez_rguez@outlook.com", "lab1", myDevice);
+			await helper.InsertarEntidad("correo", "lab1", myDevice);
 			button.Text = "Gracias por completar el Lab1";
 		}
 	}
