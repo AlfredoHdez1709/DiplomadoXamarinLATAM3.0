@@ -28,8 +28,8 @@ namespace Lab8
             var txtestatus = FindViewById<TextView>(Resource.Id.txtUserEstatus);
             var txtcodigo = FindViewById<TextView>(Resource.Id.txtUserCodi);
 
-            var studentemail = "alfredo_hernandez_rguez@outlook.com";
-            var password = "Al09her.ro17";
+            var studentemail = "";
+            var password = "";
 
             SALLab08.ServiceClient ServiceClient = new SALLab08.ServiceClient();
 
