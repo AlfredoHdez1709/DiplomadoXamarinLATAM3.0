@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{CA6FB669-AC9D-44D2-B7FD-56026874AC12}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab10/MainActivity.cs">
+    <Files>
+      <File FileName="Lab10/Resources/values/Strings.xml" Line="8" Column="24" />
+      <File FileName="Lab10/ValidateActivity.cs" Line="15" Column="34" />
+      <File FileName="Lab10/MainActivity.cs" Line="29" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lab10 PreferredExecutionTarget="Android.Nexus_4_API_19_2" />
+  <MultiItemStartupConfigurations />
+</Properties>

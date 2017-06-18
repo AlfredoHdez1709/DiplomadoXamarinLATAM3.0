@@ -1,0 +1,13 @@
+/Users/AlfredoHdez1709/Projects/DiplomadoXamarinLATAM3.0/Lab11/Lab11/bin/Debug/Lab11.dll
+/Users/AlfredoHdez1709/Projects/DiplomadoXamarinLATAM3.0/Lab11/Lab11/bin/Debug/Lab11.pdb
+/Users/AlfredoHdez1709/Projects/DiplomadoXamarinLATAM3.0/Lab11/Lab11/bin/Debug/com.companyname.lab11.apk
+/Users/AlfredoHdez1709/Projects/DiplomadoXamarinLATAM3.0/Lab11/Lab11/bin/Debug/com.companyname.lab11-Signed.apk
+/Users/AlfredoHdez1709/Projects/DiplomadoXamarinLATAM3.0/Lab11/Lab11/obj/Debug/Lab11.csproj.CoreCompileInputs.cache
+/Users/AlfredoHdez1709/Projects/DiplomadoXamarinLATAM3.0/Lab11/Lab11/obj/Debug/Lab11.dll
+/Users/AlfredoHdez1709/Projects/DiplomadoXamarinLATAM3.0/Lab11/Lab11/obj/Debug/Lab11.pdb
+/Users/AlfredoHdez1709/Projects/DiplomadoXamarinLATAM3.0/Lab11/Lab11/obj/Debug/android/bin/com.companyname.lab11.apk
+/Users/AlfredoHdez1709/Projects/DiplomadoXamarinLATAM3.0/Lab11/Lab11/obj/Debug/res/layout/main.xml
+/Users/AlfredoHdez1709/Projects/DiplomadoXamarinLATAM3.0/Lab11/Lab11/obj/Debug/res/values/strings.xml
+/Users/AlfredoHdez1709/Projects/DiplomadoXamarinLATAM3.0/Lab11/Lab11/obj/Debug/R.cs.flag
+/Users/AlfredoHdez1709/Projects/DiplomadoXamarinLATAM3.0/Lab11/Lab11/obj/Debug/uploadflags.txt
+/Users/AlfredoHdez1709/Projects/DiplomadoXamarinLATAM3.0/Lab11/Lab11/obj/Debug/res/layout/segundo.xml

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{A824F822-8057-466E-9791-3B794DA672E3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab11 PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab11/MainActivity.cs">
+    <Files>
+      <File FileName="Lab11/MainActivity.cs" Line="62" Column="13" />
+      <File FileName="Lab11/Resources/values/Strings.xml" Line="5" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

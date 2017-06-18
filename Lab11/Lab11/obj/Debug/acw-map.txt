@@ -1,0 +1,8 @@
+Lab11.MainActivity, Lab11;md5cb751fe4d4017fddc0a7955c8bdc0820.MainActivity
+Lab11.MainActivity, Lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cb751fe4d4017fddc0a7955c8bdc0820.MainActivity
+Lab11.MainActivity;md5cb751fe4d4017fddc0a7955c8bdc0820.MainActivity
+lab11.MainActivity;md5cb751fe4d4017fddc0a7955c8bdc0820.MainActivity
+Lab11.SegundoActivity, Lab11;md5cb751fe4d4017fddc0a7955c8bdc0820.SegundoActivity
+Lab11.SegundoActivity, Lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cb751fe4d4017fddc0a7955c8bdc0820.SegundoActivity
+Lab11.SegundoActivity;md5cb751fe4d4017fddc0a7955c8bdc0820.SegundoActivity
+lab11.SegundoActivity;md5cb751fe4d4017fddc0a7955c8bdc0820.SegundoActivity
